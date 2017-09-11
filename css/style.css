@@ -1,0 +1,27 @@
+body {
+     color: white;
+     font-size: 12px;
+     line-height: 1.4;
+     font-family: Helvetica, Arial, sans-serif;
+     background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
+      background-size: cover;
+}
+.slogan, p {
+  color: white;
+  font-size: 12;
+  text-align: center;
+}
+.button1, p {
+align-items: center;
+}
+header {
+
+}
+
+footer {
+
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
